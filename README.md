@@ -2,7 +2,6 @@
 GIt練習用だよ
 
 test文章
-test2
-test3
-test
+test変更２
+test変更３
 test44444
