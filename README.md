@@ -9,48 +9,12 @@ test branch3で再再再度編集
 test branch33333で編集中  
 
 
-|Column1  |Column2  |
-|---------|---------|
-|Row1     |         |
-|Row2     |         |
-
 
 
 
 
 > [!CAUTION]
 > Negative potential consequences of an action
-
-
-:::note info
-インフォメーション
-infoは省略可能です。
-:::
-
-:::note warn
-警告
-○○に注意してください。
-:::
-
-:::note alert
-より強い警告
-○○しないでください。
-:::
-
-
-
-## Link
-
-[Markdown記述チートシート](https://code-enj.app/post/2021-07-28-markdown-cheatsheet/)
-
-[yahoo](https://www.yahoo.co.jp/)
-
-[google](https://www.google.jp/)
-
-[絵文字を表示する](https://www.webfx.com/tools/emoji-cheat-sheet/)
-
-:smile:  
-:triumph:  
 
 ## Markdown拡張機能
 ### 1.Docs Authoring Pack
@@ -89,3 +53,15 @@ WordやExcelのショートカットキーと似ているので直観で使え�
 > [!TIP]
 > *イタリック*で表示するときは**ctrl+i**  
 **太字**で表示するときは***Ctrl＋ｂ**  
+
+
+## Link
+
+[Markdown記述チートシート](https://code-enj.app/post/2021-07-28-markdown-cheatsheet/)  
+
+[Markdown記述例](https://xn--qiita-gn5m736f.com/tbpgr/items/989c6badefff69377da7)
+
+[絵文字を表示する](https://www.webfx.com/tools/emoji-cheat-sheet/)
+※GitHub上なら絵文字が表示される  
+:smile:  
+:triumph:  
