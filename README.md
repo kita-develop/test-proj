@@ -65,12 +65,25 @@ WordやExcelのショートカットキーと似ているので直観で使え�
 VSCode上で図形の描画が可能になります。
 以下のような感じでDraw.ioのアプリと同じようにVscode上でファイルを編集できます。
 ![](2022-01-14-12-06-00.png)
+
 更にmdファイルにリンクを付けて表示もできます。
-<!-- ![図形](test_draw.dio) -->
 
 ![図形2](test_draw2.drawio.svg)  
+
 imgタグで記述も可能  
 <img width="150" src="test_draw2.drawio.svg">
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Link
 
