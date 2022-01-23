@@ -74,7 +74,11 @@ imgタグで記述も可能
 <img width="150" src="test_draw2.drawio.svg">
 
 
+Draw.ioに画像も挿入できるのでめっちゃ便利  
+※クリップボードの画像貼り付けはできないです  
+※画像base64エンコードされたものが埋め込まれているのでファイルサイズが大きくなるので注意  
 
+<img width="250" src="test_draw_img.drawio.svg">
 
 
 
