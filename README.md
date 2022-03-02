@@ -2,12 +2,12 @@
 GIt練習用だよ
 
 test文章
-test branch3で追加  
-test branch3で再度編集  
-test branch3で再再度編集  
-test branch4で追加  
+test branch3で追加
+test branch3で再度編集
+test branch3で再再度編集
+test branch4で追加
 test branch4で再度追加
-test branch5で追加  
+test branch5で追加
 test branch5で再度追加
 test branch5で再再度追加
 test branch5で再再再度追加
@@ -26,15 +26,15 @@ test branch5で再再再再再度追加22
 ### 1.Docs Authoring Pack
 ![Docs Authoring Pack](2022-01-12-17-06-29.png)
 
-**Alt+M**のショートカットキーで入力候補Windowから  
-ひな形を選択して入力できます。  
+**Alt+M**のショートカットキーで入力候補Windowから
+ひな形を選択して入力できます。
 ![](2022-01-12-16-03-23.png)
 
 これはかなりお勧めですね
 
 ### 2.Paste image
 ![](2022-01-12-17-13-45.png)
-Ctrl + Alt + v でクリップボードの画像を貼り付けてくれる  
+Ctrl + Alt + v でクリップボードの画像を貼り付けてくれる
 画像はmarkdownのファイルと同じ場所に保存されています。
 > [!IMPORTANT]
 > Ctrl + Alt + v で貼り付けてくれる
@@ -42,7 +42,7 @@ Ctrl + Alt + v でクリップボードの画像を貼り付けてくれる
 
 ### 3.Markdown All in One
 ![](2022-01-12-17-18-20.png)
-ショートカットキーでMarkdownに変換してくれる  
+ショートカットキーでMarkdownに変換してくれる
 WordやExcelのショートカットキーと似ているので直観で使える
 #### Markdown All in oneショートカットキー
 
@@ -55,10 +55,10 @@ WordやExcelのショートカットキーと似ているので直観で使え�
 |Alt + C	          |チェックボックスの有効/無効|
 |範囲選択 + Ctrl + V   |リンクの設定|
 
-例)  
+例)
 > [!TIP]
-> *イタリック*で表示するときは**ctrl+i**  
-**太字**で表示するときは***Ctrl＋ｂ**  
+> *イタリック*で表示するときは**ctrl+i**
+**太字**で表示するときは***Ctrl＋ｂ**
 
 ### 4.Draw.io Integration
 ![](2022-01-14-12-03-32.png)
@@ -68,15 +68,15 @@ VSCode上で図形の描画が可能になります。
 
 更にmdファイルにリンクを付けて表示もできます。
 
-![図形2](test_draw2.drawio.svg)  
+![図形2](test_draw2.drawio.svg)
 
-imgタグで記述も可能  
+imgタグで記述も可能
 <img width="150" src="test_draw2.drawio.svg">
 
 
-Draw.ioに画像も挿入できるのでめっちゃ便利  
-※クリップボードの画像貼り付けはできないです  
-※画像base64エンコードされたものが埋め込まれているのでファイルサイズが大きくなるので注意  
+Draw.ioに画像も挿入できるのでめっちゃ便利
+※クリップボードの画像貼り付けはできないです
+※画像base64エンコードされたものが埋め込まれているのでファイルサイズが大きくなるので注意
 
 <img width="250" src="test_draw_img.drawio.svg">
 
@@ -91,11 +91,14 @@ Draw.ioに画像も挿入できるのでめっちゃ便利
 
 ## Link
 
-[Markdown記述チートシート](https://code-enj.app/post/2021-07-28-markdown-cheatsheet/)  
+[Markdown記述チートシート](https://code-enj.app/post/2021-07-28-markdown-cheatsheet/)
 
 [Markdown記述例](https://xn--qiita-gn5m736f.com/tbpgr/items/989c6badefff69377da7)
 
 [絵文字を表示する](https://www.webfx.com/tools/emoji-cheat-sheet/)
-※GitHub上なら絵文字が表示される  
-:smile:  
-:triumph:  
+※GitHub上なら絵文字が表示される
+:smile:
+:triumph:
+
+
+マージてすとです。
